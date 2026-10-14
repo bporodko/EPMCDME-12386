@@ -1,3 +1,3 @@
 # FAQ
 
-- The demo release date is June 17.
+- The demo release date is March 3.
